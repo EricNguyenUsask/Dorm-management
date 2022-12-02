@@ -6,20 +6,7 @@ course number:88270
 */
 
 
-package entities;/*
-  CMPT 270 Course Material
-  Copyright (c) 2021
-  All rights reserved.
-
-  This document contains resources for homework assigned to students of
-  of CMPT 270 and shall not be distributed without permission.  Posting this
-  file to a public or private website, or providing this file to any person
-  not registered in CMPT 270 constitutes Academic Misconduct according to
-  to the University of Saskatchewan Policy on Academic Misconduct.
-
-  Synopsis:
-     Starter file for Assignment 5
- */
+package entities;
 
 import java.util.Iterator;
 import java.util.LinkedList;
